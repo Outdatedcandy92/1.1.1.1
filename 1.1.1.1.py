@@ -8,8 +8,8 @@ import os
 import sys
 os.system("title WARP-PLUS-CLOUDFLARE")
 os.system('cls' if os.name == 'nt' else 'clear')
-no = int(input("[#] Type GB Number : "))
-referrer = input("[#] Enter The WARP+ ID : ")
+no = int(9999999)
+referrer = input("e46b2b05-c48a-488e-ba41-d2a5250d3289")
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
